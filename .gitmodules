@@ -1,0 +1,3 @@
+[submodule "audition"]
+	path = audition
+	url = https://github.com/williamwmarx/audition.git
